@@ -3791,7 +3791,7 @@ body.tt-boxed .tt-wrap .tt-grid.ttgr-gap-6 {
 .pgi-image-wrap {
 	position: relative;
 	display: block;
-	overflow: hidden;
+	overflow: visible;
 	z-index: 1;
 	line-height: 1;
 }
