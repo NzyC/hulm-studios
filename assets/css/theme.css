@@ -146,10 +146,10 @@ hr {
 	border-bottom: 1px solid rgb(144 144 144 / 30%);
 }
 
-.anim-image-parallax {
+/* .anim-image-parallax {
 	transform: scale(1.2);
 	transform-origin: 50% 100%;
-}
+} */
 
 /* Selection */
 ::selection {
